@@ -26,5 +26,5 @@ function nombreResolucion(ancho,alto){
 
 }
 
-let nombre = nombreResolucion(1922,1090);
+let nombre = nombreResolucion(2561,1441);
 console.log(nombre);
